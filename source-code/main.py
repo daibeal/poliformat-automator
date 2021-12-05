@@ -11,6 +11,8 @@ from selenium import webdriver
 import threading
 import pickle
 import os.path
+from getpass import getpass
+
 
 
 
@@ -43,7 +45,7 @@ if(is_previous__data__available):
 else:
     # Terminal input
     uss__In = input("\nEnter your username - [DNI/NIE]: ")
-    pass__In = input("\nEnter your password:")
+    pass__In = getpass("Enter your password: ")
     # Check Store
     accept = input('Do you want to save your login info? [Y/N]').lower()
     if(accept=="y"):
