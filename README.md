@@ -113,4 +113,4 @@ Project Link: [https://github.com/daibeal/poliformat-automator](https://github.c
 [license-url]: https://github.com/daibeal/cpa-entregable/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/daibeal/
-[product-screenshot]: https://github.com/daibeal/poliformat-automator/blob/93a27d54eb6f75f85b436982b4dba645979269c4/Screenshot%202021-12-05%20at%2002.49.12.png
+[product-screenshot]: https://github.com/daibeal/poliformat-automator/blob/63eac59d28a299626249f1361a48ccc4f77e45b5/img.png
