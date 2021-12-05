@@ -62,9 +62,17 @@
 
 
 
+<!-- USAGE -->
+## Usage
 
 
-
+1.- `pip3 install selenium` <br>
+2-  `pip3 install webdriver-manager`<br>
+3.- `python3 main.py`<br>
+<hr>
+4.- Type <b>DNI/User</b><br>
+5.- Type <b>password</b><br>
+6.- 'Do you want to save your login info? [Y/N]'
 
 
 
